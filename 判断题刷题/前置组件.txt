@@ -1,0 +1,2 @@
+::全选复制到cmd运行
+pip install pywin32 -i https://pypi.tuna.tsinghua.edu.cn/simple
