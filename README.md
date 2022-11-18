@@ -5,6 +5,6 @@
 
 ### 使用预览
 
-![1]()
+![1](https://github.com/PTA00/py-diya-panduan/blob/main/image/0.png)
 
-![2]()
+![2](https://github.com/PTA00/py-diya-panduan/blob/main/image/1.png)
